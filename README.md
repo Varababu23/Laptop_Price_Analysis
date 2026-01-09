@@ -1,12 +1,13 @@
-Laptop Price Analysis Using Python
-Project Overview
+**Laptop Price Analysis Using Python
+
+Project Overview**
 
 This project focuses on analyzing laptop prices using Python by exploring how different laptop specifications influence their market price. The dataset contains detailed information about various laptop models, including brand, type, screen size, RAM, processor, storage, GPU, display features, weight, and price.
 
 The main objective of this project is to apply Exploratory Data Analysis (EDA) techniques to clean the data, analyze relationships between features, and visualize important patterns in laptop pricing. This project was developed as a learning-based data analysis task and demonstrates foundational skills in Python, data preprocessing, and data visualization.
 
-Objectives of the Project
-
+**Objectives of the Project
+**
 Analyze laptop prices based on hardware and technical specifications
 
 Understand the impact of RAM, CPU, GPU, storage, and display features on price
@@ -17,8 +18,8 @@ Perform exploratory data analysis using visualizations
 
 Gain hands-on experience with real-world datasets
 
-Dataset Description
-
+**Dataset Description
+**
 The dataset contains laptop specifications and their corresponding prices in Euros. Each row represents a laptop, and each column represents a specific feature.
 
 Dataset Columns
@@ -67,8 +68,8 @@ GPU_company – GPU manufacturer
 
 GPU_model – GPU model
 
-Tools and Technologies Used
-
+**Tools and Technologies Used
+**
 Python
 
 Pandas
@@ -81,7 +82,8 @@ Seaborn
 
 Jupyter Notebook
 
-Project Workflow
+**Project Workflow
+**
 Data Loading
 
 Loaded the dataset using Pandas
@@ -118,8 +120,8 @@ Display feature analysis (IPS, Retina, Touchscreen)
 
 Weight vs price relationship
 
-Key Insights
-
+**Key Insights
+**
 Laptops with higher RAM tend to have higher prices
 
 Apple laptops are generally priced higher than many other brands
@@ -132,8 +134,8 @@ IPS and Retina displays contribute to higher pricing
 
 Lightweight laptops are often priced higher
 
-Learning Outcomes
-
+**Learning Outcomes
+**
 Understanding of real-world data cleaning techniques
 
 Practical experience in exploratory data analysis
@@ -144,8 +146,8 @@ Better understanding of how hardware specifications affect laptop pricing
 
 Enhanced confidence in Python-based data analysis
 
-Future Improvements
-
+**Future Improvements
+**
 Build a machine learning model to predict laptop prices
 
 Perform deeper brand-specific analysis
@@ -154,6 +156,6 @@ Add feature importance analysis
 
 Create interactive dashboards for better visualization
 
-Conclusion
-
+**Conclusion
+**
 This project demonstrates the application of exploratory data analysis techniques on a real-world dataset. It helped strengthen my understanding of data analysis concepts and improved my ability to extract meaningful insights from data. This project is suitable for academic purposes and as part of a beginner-level data analysis portfolio on GitHub.
